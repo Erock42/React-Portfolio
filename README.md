@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+#  React Portfolio App
 
-# Employee Database
-
-  -
+-
 
   ## Table of Contents 
   - [Description](#description)
